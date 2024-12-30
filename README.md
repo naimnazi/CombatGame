@@ -19,7 +19,10 @@ Not done yet
 -spawn enemy every 5 second into the world
 -enemy with ability and attacking animation
 
+download this repo then do the clean rebuild the project.
 
+UE 5.4.4
+VS 2022
 
 Sorry forgot to commit in github everytime change the code, but i put comment in code.
 Already try my best, can focus doing on weekend only this week, althought not complete all the requirement needed
